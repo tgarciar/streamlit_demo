@@ -10,8 +10,10 @@ st.markdown("""
 """)
 
 from PIL import Image
+raw_data_path = '/raw_data'
+st.write(os.listdir(raw_data_path))  # List files in the directory
 
-# st.write(f"Current working directory: {os.getcwd()}")
+ st.write(f"Current working directory: {os.getcwd()}")
 image = Image.open('/raw_data/lw2.png')
 st.image(image, use_column_width=False)
 
