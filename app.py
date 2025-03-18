@@ -7,7 +7,7 @@ st.set_page_config(
             page_title="DA rocks", # => Quick reference - Streamlit
             page_icon="🐍",
             layout="centered", # wide
-            initial_sidebar_state="auto" # collapsed
+            initial_sidebar_state="auto" # collapsed)
 
 st.markdown("""# Tomi is actually NOT A teacher
 ## This is a sub header
