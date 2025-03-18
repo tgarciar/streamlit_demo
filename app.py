@@ -4,12 +4,12 @@ import numpy as np
 import pandas as pd
 
 st.set_page_config(
-            page_title="Streamlit is cool and easy", # => Quick reference - Streamlit
+            page_title="DA rocks", # => Quick reference - Streamlit
             page_icon="🐍",
             layout="centered", # wide
             initial_sidebar_state="auto") # collapsed
 
-st.markdown("""# This is a HEADER
+st.markdown("""# Tomi is actually a teacher
 ## This is a sub header
 This is text
 
