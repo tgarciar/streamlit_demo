@@ -9,7 +9,7 @@ st.set_page_config(
             layout="centered", # wide
             initial_sidebar_state="auto") # collapsed
 
-st.markdown("""# Tomi is actually a teacher
+st.markdown("""# Tomi is actually NOT A teacher
 ## This is a sub header
 This is text
 
